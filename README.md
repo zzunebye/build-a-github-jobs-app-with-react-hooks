@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Clone-coded the lecture from Traversy Media
+Source: https://www.youtube.com/watch?v=fxY1q4SCB64
+
 ## Available Scripts
 
 In the project directory, you can run:
