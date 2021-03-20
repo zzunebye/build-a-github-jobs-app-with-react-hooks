@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/build-a-github-jobs-app-with-react-hooks/static/js/main.ef05605d.chunk.js",
+    "main.js.map": "/build-a-github-jobs-app-with-react-hooks/static/js/main.ef05605d.chunk.js.map",
+    "runtime-main.js": "/build-a-github-jobs-app-with-react-hooks/static/js/runtime-main.6e05b6c2.js",
+    "runtime-main.js.map": "/build-a-github-jobs-app-with-react-hooks/static/js/runtime-main.6e05b6c2.js.map",
+    "static/js/2.cf565c1f.chunk.js": "/build-a-github-jobs-app-with-react-hooks/static/js/2.cf565c1f.chunk.js",
+    "static/js/2.cf565c1f.chunk.js.map": "/build-a-github-jobs-app-with-react-hooks/static/js/2.cf565c1f.chunk.js.map",
+    "index.html": "/build-a-github-jobs-app-with-react-hooks/index.html",
+    "precache-manifest.545d19be890192bb109d475323ae5712.js": "/build-a-github-jobs-app-with-react-hooks/precache-manifest.545d19be890192bb109d475323ae5712.js",
+    "service-worker.js": "/build-a-github-jobs-app-with-react-hooks/service-worker.js",
+    "static/js/2.cf565c1f.chunk.js.LICENSE.txt": "/build-a-github-jobs-app-with-react-hooks/static/js/2.cf565c1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e05b6c2.js",
+    "static/js/2.cf565c1f.chunk.js",
+    "static/js/main.ef05605d.chunk.js"
+  ]
+}
